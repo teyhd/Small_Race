@@ -1,2 +1,11 @@
-# Small_Race
-Small Race on js
+# Гонки из тетриса
+ - Написанно на JS и Canvas
+- Адаптирован под моблиьные устройства
+
+# Установка
+```
+$ apt-get install apache2
+$ git clone [ссылка на проект]
+```
+# TODO
+- Дизайн
